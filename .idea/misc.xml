@@ -5,6 +5,7 @@
       <map>
         <entry key="app/src/main/res/drawable/ic_arrow_next.xml" value="0.1" />
         <entry key="app/src/main/res/drawable/ic_arrow_previous.xml" value="0.1" />
+        <entry key="app/src/main/res/layout-land/activity_main.xml" value="0.1" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.19322916666666667" />
       </map>
     </option>
